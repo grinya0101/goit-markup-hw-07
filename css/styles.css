@@ -204,10 +204,6 @@ a:focus .contacts__icon--phone {
     url("../image/home/team.jpg");
 }
 
-. {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
 
 /*заголовок*/
 .hero__title {
@@ -1174,6 +1170,7 @@ a {
   border-right: 1px solid #eeeeee;
   border-bottom: 1px solid #eeeeee;
 }
+
 
 
 img {
